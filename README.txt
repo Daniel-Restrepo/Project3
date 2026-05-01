@@ -15,7 +15,7 @@ README.txt - Instructions for running the project.
 
 How to Run:
 1. Make sure Python 3 is installed.
-2. Open the project folder in VS Code.
+2. Open the project folder in VS Code (or any IDE).
 3. Open the terminal.
 4. Run:
 
